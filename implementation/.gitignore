@@ -1,0 +1,12 @@
+# ignore all the generated samples and trained models
+*.png
+*.pth
+
+# ignore the training_runs folder:
+training_runs/
+
+# ignore the tf-hub_modules cache
+tf-hub_modules/
+
+# ignore the archived training
+archived/
